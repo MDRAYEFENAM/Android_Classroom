@@ -1,0 +1,10 @@
+public class Division{
+
+     public static void main(String[] args){
+         
+        double a = 550, b = 100, div;
+        div = a / b;  
+        System.out.print("The division is:"+div);
+        
+     }
+}
