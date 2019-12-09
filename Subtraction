@@ -1,0 +1,10 @@
+public class Subtaction{
+
+     public static void main(String[] args){
+         
+        int a = 550, b = 50, sub;
+        sub = a - b;  
+        System.out.print(sub);
+        
+     }
+}
