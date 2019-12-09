@@ -1,0 +1,10 @@
+public class Multiplication{
+
+     public static void main(String[] args){
+         
+        int a = 550, b = 50, mul;
+        mul = a * b;  
+        System.out.print("The multiplication is:"+mul);
+        
+     }
+}
